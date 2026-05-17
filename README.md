@@ -5,7 +5,6 @@
 **Analyste :** Omar Haouani
 **APK cible :** snake.apk
 **Vulnérabilité :** CVE-2022-1471 (SnakeYAML RCE)
-**Date :** 17 mai 2026
 
 ---
 
